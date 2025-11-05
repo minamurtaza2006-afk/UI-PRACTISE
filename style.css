@@ -1,0 +1,101 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.white{
+width: 800px;
+height: 450px;
+background-color: rgb(242, 245, 249);
+}
+.back-color{
+   height: 450px;  
+    width: 200px;
+    background-color: #D4DCED;
+}
+.box{
+ background-color: rgb(192, 42, 42); 
+
+}
+.all-div{
+    display: flex;
+    /* background-color: #f4f5f7;
+    height: 200px;
+    width: 200px; */
+    
+}
+.radius{
+    border-radius: 30px;
+}
+
+.yellow{
+    height: 90px;
+    width: 200px;
+    background-color: #FAAB36;
+    
+}
+.pink{
+     height: 90px;
+    width: 200px;
+    background-color: #F939A3;
+}
+.blue{
+     height: 90px;
+    width: 200px;
+    background-color: #4D48AA;
+}
+.aqua{
+     height: 90px;
+    width: 200px;
+    background-color:#37CCCD ;
+}
+.sign-out{
+    color: blue;
+    border-style: none;
+    background-color: transparent;
+}
+
+.business{
+    display: flex;
+}
+.contanier{
+    display: flex;
+
+}
+.today{
+    height: 80px;
+    width: 170px;
+    background-color: transparent;
+    border-style:ridge;
+
+}
+.product{
+       height: 80px;
+    width: 170px;
+    background-color: transparent;
+    border-style:ridge;
+}
+.orders{
+       height: 80px;
+    width: 170px;
+    background-color: transparent;
+    border-style:ridge;
+}
+.flex{
+    display: flex;
+}
+
+.color{
+    color: #f4f5f7;
+}
+.button{
+    /* row-gap: 20px; */
+}
+
+
+
+
+.plus{
+        display: flex;
+        
+        row-gap: 20px;
+    } 
